@@ -49,7 +49,7 @@ export default function App(props) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="I'm Moustapha Mahmoud, A Passionate Junior FullStack (MERN) Developer. Interested in ReactJs, NextJs, NodeJs, PostgresSQL and MongoDB, and this is my portfolio (mmm066550)"
+          content="I am Aritra, a math loving creature."
         />
         <meta
           name="keyword"
